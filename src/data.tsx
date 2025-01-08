@@ -95,9 +95,9 @@ export const skills = {
 };
 
 export const emailDetails = {
-  "Service ID": " ", //Service ID
-  "Template ID": " ", //Template ID
-  "Public Key": " ", //Public Key
+  "Service ID": "service_cz0rcm9", //Service ID
+  "Template ID": "template_a3lpyb6", //Template ID
+  "Public Key": "9Qabegm9Z4qu66nl3", //Public Key
 };
 
 export const phoneRegex = /^(\+\d{1,3}[-\s]?)?(\d{3}[-\s]?\d{3}[-\s]?\d{4})$/;
